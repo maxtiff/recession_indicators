@@ -1,0 +1,47 @@
+Australia	ausrec
+Austria	autrec
+Belgium	belrec
+Canada	canrec
+Chile	chlrec
+Czech Republic	czerec
+Denmark	dnkrec
+Estonia	estrec
+Finland	finrec
+France	frarec
+Germany	deurec
+Greece	grcrec
+Hungary	hunrec
+Ireland	irlrec
+Israel	isrrec
+Italy	itarec
+Japan	jpnrec
+Korea	korrec
+Luxembourg	luxrec
+Mexico	mexrec
+Netherlands	ndlrec
+New Zealand	nzlrec
+Norway	norrec
+Poland	polrec
+Portugal	prtrec
+Slovak Republic	svkrec
+Slovenia	svnrec
+Spain	esprec
+Sweden	swerec
+Switzerland	cherec
+Turkey	turrec
+United Kingdom	gbrrec
+United States	usarec
+Brazil	brarec
+China	chnrec
+Euro Area	eurorec
+India	indrec
+Indonesia	idnrec
+Major Five Asia	major5asiarec
+Major Four Europe	4bigeurorec
+Major Seven	mscrec
+NAFTA	naftarec
+OECD + Major 6 non member countries	oecdnmerec
+OECD Europe	oecdeuroperec
+OECD Total	oecdrec
+Russia	rusrec
+South Africa	zafrec
